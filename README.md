@@ -50,6 +50,28 @@ business leaders.
 THE ANALYTICS PROCESS IS ITERATIVE
 While we describe the steps of the analytics as series of sequential actions,it is more accurate to think of them as a set of inter-related actions that may be revisted frequently
 while working with a dataset.
+This process is meant to help you understand the different activities that take place during a data analysis effort and approximate order in which they typically occur.
+
+ANALYTICS TECHNIQUES
+Analyst use a varietyof techniques to draw conclusions from the data at their disposal.
+MAJOR CATEGORIES OF ANALYTICS TECHNIQUES
+1.Descriptive Analytics
+2.Predictive Analytics
+3.Prescriptive Analytics
+
+MACHINE LEARNING:Uses algorithms to discover knowledge in your datasets that you can then apply to help you make informed decisions about the future.
+CASES WHERE MACHINE LEARNING COMMONLY ADDS VALUE
+1.Segmenting customers and determing the marketing messages that will appeal to different customer groups
+2.Discovering anomalies in system and application logs that may be indicative of a cybersecurity incident
+3.Forecasting product sales based on market and environmental conditions
+4.Recommending the next movie that a customer might wish to watch based on their past activity and the preferences of similar customers
+5.Setting prices for hotel rooms far in advance based on forecasted demand.
+
+ARTIFICIAL INTELLIGENCE(AI) includes any type of technique where you are attempting to get a computer system to initiate  human behavior.
+MACHINE LEARNING(ML) is a subset of AI techniques.ML techniques attempt to apply statics to data problems in an effort to discover new knowledge.
+
+DEEP LEARNING:Is further subdivision of machine learning that uses quite complex techniques,known as neural networks,to discover knowledge in a particular way it is highly specialized
+subfield of machine learning that is commonly used for image,video and sound analysis
 
 
 
