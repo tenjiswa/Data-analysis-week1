@@ -36,6 +36,7 @@ THREE MAJOR PILLARS THAT COME TOGETHER TO ALLOW ANALYTICS PROGRAMS TO THRIVE
 3.Computing power
 Process they move through as they acquire new data,clean and manipulate that data, analyze it,create visualizations and then report and communicate their results to
 business leaders.
+
         Data Aquisition
              \
        Cleaning and Manipulation
@@ -49,6 +50,9 @@ business leaders.
 THE ANALYTICS PROCESS IS ITERATIVE
 While we describe the steps of the analytics as series of sequential actions,it is more accurate to think of them as a set of inter-related actions that may be revisted frequently
 while working with a dataset.
+
+
+
 
 
 
