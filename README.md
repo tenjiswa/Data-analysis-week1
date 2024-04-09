@@ -30,6 +30,30 @@ Step 3:Clean the data
 Step 4:Analyse the data
 Step 5:Interpret and share the results
 
+THREE MAJOR PILLARS THAT COME TOGETHER TO ALLOW ANALYTICS PROGRAMS TO THRIVE
+1.Data
+2.Storage
+3.Computing power
+Process they move through as they acquire new data,clean and manipulate that data, analyze it,create visualizations and then report and communicate their results to
+business leaders.
+        Data Aquisition
+             \
+       Cleaning and Manipulation
+              \
+          Analysis
+              \
+        Visualization
+              \
+      Reporting and communication
+
+THE ANALYTICS PROCESS IS ITERATIVE
+While we describe the steps of the analytics as series of sequential actions,it is more accurate to think of them as a set of inter-related actions that may be revisted frequently
+while working with a dataset.
+
+
+
+
+
 
 
 
