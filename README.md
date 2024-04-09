@@ -21,6 +21,15 @@ Responsibilities include:
 5.Gather new data to answer client questions, collating and organizing data from multiple sources
 6.Design,build,test and maintain backend code
 7.Establish data processes,define data quality criteria and implement data quality processes
-8.Woek as part of a team to evaluate and analyze key data that will be used to shape future strategies.
+8.Work as part of a team to evaluate and analyze key data that will be used to shape future strategies.
+
+TYPICAL PROCESS OF DATA ANALYST
+Step 1:Define the questions that you want to answer(problem and hypothesis)
+Step 2:Collect the data(gather data from primary sources)
+Step 3:Clean the data
+Step 4:Analyse the data
+Step 5:Interpret and share the results
+
+
 
 
