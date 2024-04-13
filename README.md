@@ -5,7 +5,7 @@ In other words you can describe it as business intelligence used to solve compan
 
 # HOW IS DATA ANALYTICS USED?
 It is used to make faster, better business decisions, It is also used to reduce overall business costs and to develop new and innovative products and services.
-# IN REAL WORLD DATA ANALYTICS MAY BE USED FOR:
+ IN REAL WORLD DATA ANALYTICS MAY BE USED FOR:
 1.To predict future sales for purchasing behaviours
 2.To help and protect against fraud(security purposes)
 3.To analyze the effectiveness of marketing campaigns
@@ -67,13 +67,13 @@ CASES WHERE MACHINE LEARNING COMMONLY ADDS VALUE
 4.Recommending the next movie that a customer might wish to watch based on their past activity and the preferences of similar customers
 5.Setting prices for hotel rooms far in advance based on forecasted demand.
 
-# ARTIFICIAL INTELLIGENCE(AI) includes any type of technique where you are attempting to get a computer system to initiate  human behavior.
-# MACHINE LEARNING(ML) is a subset of AI techniques.ML techniques attempt to apply statics to data problems in an effort to discover new knowledge.
+ARTIFICIAL INTELLIGENCE(AI) includes any type of technique where you are attempting to get a computer system to initiate  human behavior.
+ MACHINE LEARNING(ML) is a subset of AI techniques.ML techniques attempt to apply statics to data problems in an effort to discover new knowledge.
 
-# DEEP LEARNING:Is further subdivision of machine learning that uses quite complex techniques,known as neural networks,to discover knowledge in a particular way it is highly specialized
+DEEP LEARNING:Is further subdivision of machine learning that uses quite complex techniques,known as neural networks,to discover knowledge in a particular way it is highly specialized
 subfield of machine learning that is commonly used for image,video and sound analysis.
 
-# DATA GOVERNANCE
+DATA GOVERNANCE
 Ensures that the organization has high-quality data and is able to effectively control data.
 
 # ANALYTICS TOOL
@@ -83,13 +83,46 @@ clean,manipulate,visualize and analyze data.They also provide invaluable assista
 # CHAPTER TWO EXPLORING DATA TYPES
 A data element is an attribute about a person,place or thing containing data within a range of values.Data elements also describe characteristics of activities including orders,transactions and events.
 A data type limits the values a data element can have.
-# TUBULAR DATA : is data organized into a table,made up of columns and rows
+TUBULAR DATA : is data organized into a table,made up of columns and rows
 
-# STRUCTURED DATA TYPES
+STRUCTURED DATA TYPES
 Is tabular in nature and organized into rows and columns, structured data is what typically comes to mind when looking at a spreedsheet.
-# CHARACTER DATA TYPE
+CHARACTER DATA TYPE
 Limits data entry to only valid characters.characters can include the alphabet than you might see on your keyboard,as well as numbers.
-# Alphanumeric is the most widely
+# Alphanumeric
+is the most widely used data types for storing character-based data.As the name implies alphanumeric is appropriate when data element consists of both numbers and letter examples include
+address field,to accurately represent a given street address, both the house number and street name is required.
+
+# CHARACTER SETS 
+Database uses character sets to map or encodedata and store it digitally.ASCII accomodates both the upper and lowercase English alphabet and numbers,mathematical operators and symbols.
+STRONG AND WEAK TYPING
+Datatype define values placed in clumns.Strong typing is when technology rigidly enforces data types.
+A database column defined as numeric only accepts numeric values.You get an error if you attempt to enter characters into numeric column.
+# Weak typing 
+loosely enforces data types.Spreadsheets use weak typing to help make it easier for people to accomplish their work.
+UNSTRUCTURED DATA TYPES-is any type of data that does not fit neatly into the tabular model.Examples include digital images,audio recordings,video recordings and open-ended survey-responses.
+Semi-Structured data represents the space between structured spreadsheets and unstructured videos.
+
+# QUANTITATIVE DATA
+1.Consists of numeric values
+2.Data elements whose values comes from counting or measuring e.g height and weight
+3.Answers questions like "How many?" and "how much?"
+
+# QUALITATIVE DATA
+1.Consists of frequent text values
+2.Data elements whose values describe characteristics,traits and attitude are all qualitative e.g PetName,Animal Type and Breed Name
+3.Answers questions like "why?" and "what?"
+
+# DISCRETE 
+1.Represents measurements that can't be subdivided.
+2.Whole numbers represent discrete data
+3.Qualitative data is descrete data
+
+# CONTINUOUS DATA
+1.When you measure things like height and weight
+2.Quantitative data can be either discrete or continuous data
+
+    
 
 
 
